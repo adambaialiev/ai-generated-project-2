@@ -1,0 +1,11 @@
+.display {
+    font-size: 48px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.big-button {
+    font-size: 24px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
